@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="DocumentSystemApi/DocumentSystemApi.csproj" />
+  <Project Path="documentsystemclient/documentsystemclient.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>

@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFEADCD-5D6D-443E-A1B0-17B94F8C46D9}|DocumentSystemApi\\DocumentSystemApi.csproj|c:\\users\\computia.me\\desktop\\clp\\v2\\project_v2\\documentsystem\\documentsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAFEADCD-5D6D-443E-A1B0-17B94F8C46D9}|DocumentSystemApi\\DocumentSystemApi.csproj|solutionrelative:documentsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B0D438-2205-51F6-C168-7B45528D4CC3}|documentsystemclient\\documentsystemclient.esproj|c:\\users\\computia.me\\desktop\\clp\\v2\\project_v2\\documentsystem\\documentsystemclient\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B0B0D438-2205-51F6-C168-7B45528D4CC3}|documentsystemclient\\documentsystemclient.esproj|solutionrelative:documentsystemclient\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFEADCD-5D6D-443E-A1B0-17B94F8C46D9}|DocumentSystemApi\\DocumentSystemApi.csproj|c:\\users\\computia.me\\desktop\\clp\\v2\\project_v2\\documentsystem\\documentsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFEADCD-5D6D-443E-A1B0-17B94F8C46D9}|DocumentSystemApi\\DocumentSystemApi.csproj|solutionrelative:documentsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFEADCD-5D6D-443E-A1B0-17B94F8C46D9}|DocumentSystemApi\\DocumentSystemApi.csproj|c:\\users\\computia.me\\desktop\\clp\\v2\\project_v2\\documentsystem\\documentsystemapi\\data\\documentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFEADCD-5D6D-443E-A1B0-17B94F8C46D9}|DocumentSystemApi\\DocumentSystemApi.csproj|solutionrelative:documentsystemapi\\data\\documentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFEADCD-5D6D-443E-A1B0-17B94F8C46D9}|DocumentSystemApi\\DocumentSystemApi.csproj|c:\\users\\computia.me\\desktop\\clp\\v2\\project_v2\\documentsystem\\documentsystemapi\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFEADCD-5D6D-443E-A1B0-17B94F8C46D9}|DocumentSystemApi\\DocumentSystemApi.csproj|solutionrelative:documentsystemapi\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFEADCD-5D6D-443E-A1B0-17B94F8C46D9}|DocumentSystemApi\\DocumentSystemApi.csproj|c:\\users\\computia.me\\desktop\\clp\\v2\\project_v2\\documentsystem\\documentsystemapi\\documentsystemapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BAFEADCD-5D6D-443E-A1B0-17B94F8C46D9}|DocumentSystemApi\\DocumentSystemApi.csproj|solutionrelative:documentsystemapi\\documentsystemapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B0D438-2205-51F6-C168-7B45528D4CC3}|documentsystemclient\\documentsystemclient.esproj|c:\\users\\computia.me\\desktop\\clp\\v2\\project_v2\\documentsystem\\documentsystemclient\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0B0D438-2205-51F6-C168-7B45528D4CC3}|documentsystemclient\\documentsystemclient.esproj|solutionrelative:documentsystemclient\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFEADCD-5D6D-443E-A1B0-17B94F8C46D9}|DocumentSystemApi\\DocumentSystemApi.csproj|c:\\users\\computia.me\\desktop\\clp\\v2\\project_v2\\documentsystem\\documentsystemapi\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFEADCD-5D6D-443E-A1B0-17B94F8C46D9}|DocumentSystemApi\\DocumentSystemApi.csproj|solutionrelative:documentsystemapi\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFEADCD-5D6D-443E-A1B0-17B94F8C46D9}|DocumentSystemApi\\DocumentSystemApi.csproj|c:\\users\\computia.me\\desktop\\clp\\v2\\project_v2\\documentsystem\\documentsystemapi\\controllers\\summariescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFEADCD-5D6D-443E-A1B0-17B94F8C46D9}|DocumentSystemApi\\DocumentSystemApi.csproj|solutionrelative:documentsystemapi\\controllers\\summariescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFEADCD-5D6D-443E-A1B0-17B94F8C46D9}|DocumentSystemApi\\DocumentSystemApi.csproj|c:\\users\\computia.me\\desktop\\clp\\v2\\project_v2\\documentsystem\\documentsystemapi\\controllers\\analysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFEADCD-5D6D-443E-A1B0-17B94F8C46D9}|DocumentSystemApi\\DocumentSystemApi.csproj|solutionrelative:documentsystemapi\\controllers\\analysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\DocumentSystemApi\\appsettings.json",
+              "RelativeDocumentMoniker": "DocumentSystemApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\DocumentSystemApi\\appsettings.json",
+              "RelativeToolTip": "DocumentSystemApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-14T00:37:14.811Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\documentsystemclient\\vite.config.js",
+              "RelativeDocumentMoniker": "documentsystemclient\\vite.config.js",
+              "ToolTip": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\documentsystemclient\\vite.config.js",
+              "RelativeToolTip": "documentsystemclient\\vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-14T00:34:12.095Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\DocumentSystemApi\\Program.cs",
+              "RelativeDocumentMoniker": "DocumentSystemApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\DocumentSystemApi\\Program.cs",
+              "RelativeToolTip": "DocumentSystemApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T00:26:00.286Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocumentSystemApi.http",
+              "DocumentMoniker": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\DocumentSystemApi\\DocumentSystemApi.http",
+              "RelativeDocumentMoniker": "DocumentSystemApi\\DocumentSystemApi.http",
+              "ToolTip": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\DocumentSystemApi\\DocumentSystemApi.http",
+              "RelativeToolTip": "DocumentSystemApi\\DocumentSystemApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-11-14T00:24:26.919Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SummariesController.cs",
+              "DocumentMoniker": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\DocumentSystemApi\\Controllers\\SummariesController.cs",
+              "RelativeDocumentMoniker": "DocumentSystemApi\\Controllers\\SummariesController.cs",
+              "ToolTip": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\DocumentSystemApi\\Controllers\\SummariesController.cs",
+              "RelativeToolTip": "DocumentSystemApi\\Controllers\\SummariesController.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAkwMEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T00:13:40.245Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\DocumentSystemApi\\Services\\DocumentService.cs",
+              "RelativeDocumentMoniker": "DocumentSystemApi\\Services\\DocumentService.cs",
+              "ToolTip": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\DocumentSystemApi\\Services\\DocumentService.cs",
+              "RelativeToolTip": "DocumentSystemApi\\Services\\DocumentService.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAkwJEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T00:12:32.493Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\DocumentSystemApi\\Data\\DocumentDbContext.cs",
+              "RelativeDocumentMoniker": "DocumentSystemApi\\Data\\DocumentDbContext.cs",
+              "ToolTip": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\DocumentSystemApi\\Data\\DocumentDbContext.cs",
+              "RelativeToolTip": "DocumentSystemApi\\Data\\DocumentDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T00:10:02.598Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\DocumentSystemApi\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "DocumentSystemApi\\Models\\Document.cs",
+              "ToolTip": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\DocumentSystemApi\\Models\\Document.cs",
+              "RelativeToolTip": "DocumentSystemApi\\Models\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T00:13:10.691Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\documentsystemclient\\package.json",
+              "RelativeDocumentMoniker": "documentsystemclient\\package.json",
+              "ToolTip": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\documentsystemclient\\package.json",
+              "RelativeToolTip": "documentsystemclient\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-14T00:22:36.281Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnalysisController.cs",
+              "DocumentMoniker": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\DocumentSystemApi\\Controllers\\AnalysisController.cs",
+              "RelativeDocumentMoniker": "DocumentSystemApi\\Controllers\\AnalysisController.cs",
+              "ToolTip": "C:\\Users\\Computia.ME\\Desktop\\CLP\\v2\\project_v2\\DocumentSystem\\DocumentSystemApi\\Controllers\\AnalysisController.cs",
+              "RelativeToolTip": "DocumentSystemApi\\Controllers\\AnalysisController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAkwHMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T00:11:45.476Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
